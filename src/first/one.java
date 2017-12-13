@@ -7,6 +7,7 @@ public class one {
 			System.out.println("Hello")
 			System.out.println("hru")
 			//newline
+			//gfgffg
 	}
 
 }
